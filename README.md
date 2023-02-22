@@ -13,3 +13,5 @@ The purpose of this analysis was "to determine if there is any bias toward favor
 
 ## Summary
 In conclusion, there may be a slight positivity bias for Vine member reviews. The percentage of 5-star reviews made by Vine members was 63% while non-Vine members only gave a 5-star rating 56% of the time. While not incredibly drastic, this difference is an indication of a slight bias in Vine members vs. non-Vine members. 
+
+To take the anlysis one step further, we could run a regression on the data to determine if being part of the Vine program has a statiscally significant impact on whether or not the customer leaves a 5-star review. 
